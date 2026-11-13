@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 nano-365
+Copyright (c) 2026 nano-365 (https://github.com/nano-365)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +11,22 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+THIRD-PARTY SOFTWARE NOTICE
+
+This Software does not include, bundle, or redistribute RAMMap. RAMMap is a
+product of Microsoft Corporation (Sysinternals) and is subject to its own
+license terms. If this Software calls or interacts with RAMMap, you must
+download it yourself from Microsoft and accept its license. This license
+grants no rights to RAMMap, and the copyright holder is not affiliated with
+or endorsed by Microsoft.
+
+SYSTEM MODIFICATION WARNING
+
+This Software is designed to reduce RAM usage and clear memory caches
+(including standby lists, working sets, and file cache). These operations
+change system behavior and may cause temporary slowdowns or application
+instability. You use this Software entirely at your own risk.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
